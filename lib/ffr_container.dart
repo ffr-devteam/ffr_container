@@ -7,7 +7,7 @@ class FFRContainer extends StatelessWidget {
   final Widget child;
   final Color color;
 
-  FFRContainer({@required this.child, @required this.color});
+  FFRContainer({required this.child, required this.color});
 
   @override
   Widget build(BuildContext context) {

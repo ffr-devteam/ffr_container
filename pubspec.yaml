@@ -1,12 +1,12 @@
 name: ffr_container
 description: A custom container designet to only show if flutter is uses in web version with customizing options by the ffr-devteam
-version: 0.0.1
+version: 0.0.2
 homepage: https://fair-rates.ch
 repository: https://github.com/ffr-devteam/ffr_container
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
-  flutter: ">=1.17.0 <2.0.0"
+  sdk: '>=2.12.0 <3.0.0'
+  flutter: ">=1.17.0"
 
 dependencies:
   flutter:
